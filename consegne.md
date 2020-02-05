@@ -1,5 +1,4 @@
-1. Create one .js file for every excercise
-2. Test your program in terminal with the `node filename.js` command
+#### Test your program in terminal with the `node filename.js` command
 
 #### 1. Write a loop that makes seven calls to console.log to output the following triangle:
 ```
